@@ -9,4 +9,7 @@ pipeline {
             steps {
                 sh "gradle build" 
         }
-    }
+     }
+  }
+}    
+    
