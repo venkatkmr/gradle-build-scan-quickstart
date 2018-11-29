@@ -50,4 +50,4 @@ If you are completely new to the Gradle Build Tool, start [here][gradle-download
 [terms-of-service]: https://gradle.com/terms-of-service
 [instructions]: https://scans.gradle.com/
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/scans
-[manual]: https://docs.gradle.com/build-scan-plugin/.
+[manual]: https://docs.gradle.com/build-scan-plugin/
