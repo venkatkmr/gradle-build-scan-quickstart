@@ -10,4 +10,14 @@ repositories {
 dependencies {
     compile 'com.google.guava:guava:23.0'
     testCompile 'junit:junit:4.12'
+    }
+ plugins {
+    id 'checkstyle'
 }
+tasks.withType(Checkstyle) {
+ ignoreFailures = true
+ reports {
+ html.enabled = true
+ }
+}
+
